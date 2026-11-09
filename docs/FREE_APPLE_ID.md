@@ -1,5 +1,7 @@
 # Install with a free Apple ID (External JIT)
 
+Written by [@Morv](https://github.com/Morv)
+
 > **Current as of 2026-11-09.** Experimental. Read [what has been measured](#what-has-been-measured)
 > before you spend an evening on it.
 >
